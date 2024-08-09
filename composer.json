@@ -1,0 +1,18 @@
+{
+    "name": "bogo/framework",
+    "description": "This is BOGO framework using PHP you can build any web application using the framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bogo\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhannad Ibrahim"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
