@@ -1,2 +1,1 @@
-# bogo Framework
-# bogo
+# BOGO Framework
